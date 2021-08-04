@@ -10,6 +10,8 @@ html {
 body {
    font-family: 'Rajdhani', sans-serif;
    font-weight: 600;
+   background-image: url('./bg.png');
+   background-repeat: no-repeat;
 }
 .container {
    max-width: 1200px;
