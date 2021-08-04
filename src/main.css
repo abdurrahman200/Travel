@@ -10,8 +10,6 @@ html {
 body {
    font-family: 'Rajdhani', sans-serif;
    font-weight: 600;
-   background-image: url('./bg.png');
-   background-repeat: no-repeat;
 }
 .container {
    max-width: 1200px;
@@ -118,7 +116,7 @@ body {
 .heading {
    margin-bottom: 4rem;
    font-size: 2rem;
-   font-weight: 400;
+   font-weight: 600;
    background: linear-gradient(to right, #ff4d58, #df2189);
    background-clip: text;
    color: transparent;
@@ -324,7 +322,7 @@ body {
 }
 .model__heading h3 {
    font-size: 2rem;
-   font-weight: 400;
+   font-weight: 600;
    margin-bottom: 1.5rem;
 }
 @media (max-width: 36em) {
@@ -416,7 +414,7 @@ body {
    text-align: right;
    color: #000;
    font-size: 1.6rem;
-   font-weight: 400;
+   font-weight: 600;
    position: relative;
 }
 @media (max-width: 36em) {
@@ -594,7 +592,7 @@ body {
    font-size: 1.6rem;
    line-height: 2.7rem;
    color: #aaa;
-   font-weight: 400;
+   font-weight: 600;
 }
 .destinations__block {
    margin-top: 6rem;
@@ -872,7 +870,7 @@ body {
 .services__list__heading {
    background: #fff;
    font-size: 1.6rem;
-   font-weight: 400;
+   font-weight: 600;
    cursor: pointer;
    padding: 1.5rem;
    display: flex;
@@ -960,7 +958,7 @@ body {
    font-size: 1.5rem;
    line-height: 2.4rem;
    color: #1c1d1f;
-   font-weight: 400;
+   font-weight: 600;
 }
 .reviews__body__contents__info__rating {
    margin-top: 0.5rem;
@@ -1112,7 +1110,7 @@ body {
    font-size: 1.6rem;
    color: #aaa;
    width: 80%;
-   font-weight: 400;
+   font-weight: 600;
    line-height: 2.5rem;
 }
 @media (max-width: 36em) {
@@ -1233,7 +1231,7 @@ body {
 .page__contact__heading {
    font-size: 2rem;
    margin-bottom: 2rem;
-   font-weight: 400;
+   font-weight: 600;
    text-transform: capitalize;
 }
 .row {
@@ -1319,7 +1317,7 @@ body {
    line-height: 4.5rem;
    display: inline-block;
    font-size: 1.4rem;
-   font-weight: 400;
+   font-weight: 600;
    border-radius: 0.2rem;
    padding: 0 2rem;
    border: none;
@@ -1336,7 +1334,7 @@ body {
       line-height: 4rem;
       display: inline-block;
       font-size: 1.3rem;
-      font-weight: 400;
+      font-weight: 600;
       border-radius: 0.2rem;
       padding: 0 2rem;
       border: none;
@@ -1353,7 +1351,7 @@ body {
    line-height: 4.5rem;
    display: inline-block;
    font-size: 1.4rem;
-   font-weight: 400;
+   font-weight: 600;
    border-radius: 0.4rem;
    padding: 0 2rem;
    border: none;
@@ -1371,7 +1369,7 @@ body {
       line-height: 4rem;
       display: inline-block;
       font-size: 1.3rem;
-      font-weight: 400;
+      font-weight: 600;
       border-radius: 0.4rem;
       padding: 0 2rem;
       border: none;
@@ -1388,7 +1386,7 @@ body {
    line-height: 4rem;
    display: inline-block;
    font-size: 1.3rem;
-   font-weight: 400;
+   font-weight: 600;
    border-radius: 0.4rem;
    padding: 0 1.5rem;
    border: none;
@@ -1405,7 +1403,7 @@ body {
    line-height: 3rem;
    display: inline-block;
    font-size: 1.2rem;
-   font-weight: 400;
+   font-weight: 600;
    border-radius: 0.3rem;
    padding: 0 2rem;
    border: none;
@@ -1422,7 +1420,7 @@ body {
    line-height: 3.5rem;
    display: inline-block;
    font-size: 1.3rem;
-   font-weight: 400;
+   font-weight: 600;
    border-radius: 0.3rem;
    padding: 0 2rem;
    border: none;
